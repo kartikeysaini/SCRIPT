@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this script is ok"
+echo "this script is okish"
